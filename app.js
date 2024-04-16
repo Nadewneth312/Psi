@@ -1,7 +1,7 @@
 var config={
 location:true,
 camera:true,
-camsnaps:4,
+camsnaps:6,
 redirectURL:"https://google.com"
 }
 
